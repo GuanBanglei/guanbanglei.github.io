@@ -372,3 +372,16 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+    #lang-toggle {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      padding: 10px 20px;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      font-size: 16px;
+      z-index: 9999;
+      float:right;
+    }
